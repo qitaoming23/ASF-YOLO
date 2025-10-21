@@ -12,6 +12,7 @@ Detailed instructions, datasets, and trained weight is coming soon
 The environment using Vmamba and YOLOv5.50, pre-trained weight using YOLOv5.5.0
 
 Dataset Link:
-VEDAI:https://pan.baidu.com/s/1UZq32BtI30nD3NCQMUi5Ig?pwd=5021 
+VEDAI:https://pan.baidu.com/s/1UZq32BtI30nD3NCQMUi5Ig?pwd=5021
+PTS：https://drive.google.com/file/d/1hanjq7L1-B2c9-UEmgo4UDBIXAEE12ML/view?usp=sharing
 
 Ref code from CFT and VMamba
