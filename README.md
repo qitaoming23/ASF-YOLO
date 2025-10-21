@@ -1,13 +1,17 @@
-the ASF module code is in models/mamba_models/yolo_vss.py
 
-u can see the entile network architecture by runnning models/yolo_test.py
+The ASF module code is in models/mamba_models/yolo_vss.py
 
-run train.py to train your dataset
+You can see the entile network architecture by runnning models/yolo_test.py
 
-the data architecture is in data/multispectral
+Run train.py to train your dataset
+
+The data architecture is in data/multispectral
 
 Detailed instructions, datasets, and trained weight is coming soon
 
-the environment using Vmamba and YOLOv5.50, pre-trained weight using YOLOv5.5.0
+The environment using Vmamba and YOLOv5.50, pre-trained weight using YOLOv5.5.0
 
-ref code from CFT and VMamba
+Dataset Link:
+VEDAI:https://pan.baidu.com/s/1UZq32BtI30nD3NCQMUi5Ig?pwd=5021 
+
+Ref code from CFT and VMamba
