@@ -15,6 +15,6 @@ Dataset Link:
 
 VEDAI:https://pan.baidu.com/s/1_4C1PhabTpJKSFEje8S3Zg?pwd=5021
 
-PTS：https://drive.google.com/file/d/1hanjq7L1-B2c9-UEmgo4UDBIXAEE12ML/view?usp=sharing
+PTS：[https://drive.google.com/file/d/1hanjq7L1-B2c9-UEmgo4UDBIXAEE12ML/view?usp=sharing](https://drive.google.com/drive/folders/1shLedOaWY-V4rd6UJatHL0xnUFESWcbi?usp=sharing)
 
 Ref code from CFT and VMamba
